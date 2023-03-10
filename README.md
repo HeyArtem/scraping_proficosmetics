@@ -1,7 +1,7 @@
 # Скрапинг ассортимента магазина "Галерея косметики"  <br/>www.proficosmetics.ru
 
 
-![alt-текст](https://github.com/HeyArtem/UAI_lesson_15_tgbot_scraping/blob/master/picture_for_readme/main.png "Текст заголовка логотипа 1")
+![alt-текст](https://github.com/HeyArtem/scraping_proficosmetics/blob/main/picture/baner.png "Baner")
 
 
 
